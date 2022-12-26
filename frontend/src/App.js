@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          bye there!
+          created with docker compose
         </p>
         <a
           className="App-link"
